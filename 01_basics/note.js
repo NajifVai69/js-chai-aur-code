@@ -70,3 +70,12 @@ You can assign different types of values to a variable during its lifetime.
 
 
 */
+const player=['rooney' , 'moount', 'licha']//array
+const car={
+    carName: "bmw",
+    model: "latest"
+}//object
+const myFunc=function(){
+    console.log("Hello boyssss")
+}
+console.log(myFunc)
